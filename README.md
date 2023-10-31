@@ -124,6 +124,14 @@ The solution flag is s9{c0ff33_cr3@m3r}
 
 ## Stego 
 
+### iSpy 
+![image](https://github.com/Artickatz/CTF-Signal9/assets/69086568/310b2b02-7cf9-4b33-a56c-2ffcb21d6ffb)
+To solve this just zoom in on the phone alot to see the flag
+
+### QR You?
+![image](https://github.com/Artickatz/CTF-Signal9/assets/69086568/2626783b-d3b2-41d1-9dfc-36a0f9b648ec)
+
+To solve this one just scan the QR code to get the flag.
 
 
 
