@@ -1,4 +1,4 @@
-# CTF Writeups for Signal-9 CTF
+# Solutions for Signal-9 CTF
 
 ## Misc 
 
