@@ -14,6 +14,23 @@ We've seen hackers communicating with these strange messages, we don't know what
 
 This is a simple binary challenge where we can use a tool call cyber chef to solve it. So using the magic option on the binary gives us the solution whioch is s9{@11_0n3$_@nd_z3r0$}
 
+### The Basics 0x1 
+s9{h3x_w1th_th3_b3$t_d13_11k3_th3_r3$t}
+
+### The Basics 0x2 
+s9{0n1y_th3_BASE1c$}
+
+### The Basics 0x3
+s9{W311_th@t_w@5_1355_b4$1c}
+
+### Ides of March 
+
+![ceasr](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/4cc5b71a-f186-411f-896b-64e6c0d53d39)
+
+s9{Julius_wont_be_happy_about_this}
+
+
+
 ### Russian Crib 
 
 ![solve](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/9ee6e4bd-af8e-4095-abb0-aeeee076d395)
