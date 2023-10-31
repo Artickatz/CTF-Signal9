@@ -15,13 +15,21 @@ We've seen hackers communicating with these strange messages, we don't know what
 This is a simple binary challenge where we can use a tool call cyber chef to solve it. So using the magic option on the binary gives us the solution whioch is s9{@11_0n3$_@nd_z3r0$}
 
 ### The Basics 0x1 
+To solve this you can use cyberchef with the magic or hex decoding option
+
 s9{h3x_w1th_th3_b3$t_d13_11k3_th3_r3$t}
 
 ### The Basics 0x2 
+To solve this you can use cyberchef with the magic or base64 decoding option
+
 s9{0n1y_th3_BASE1c$}
 
 ### The Basics 0x3
+This is another base challenge so just use cyberchef with magic again
+
 s9{W311_th@t_w@5_1355_b4$1c}
+
+### The Basics 0x4
 
 ### Ides of March 
 
@@ -29,7 +37,17 @@ s9{W311_th@t_w@5_1355_b4$1c}
 
 s9{Julius_wont_be_happy_about_this}
 
+### Quite ENIGMATIC
 
+### RSA You Say?
+
+### XOR Might be a chore 
+
+### Doesn't make sense, XOR does it?
+
+### Root of the issue 
+
+### Custom Encryption
 
 ### Russian Crib 
 
