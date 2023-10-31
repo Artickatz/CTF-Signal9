@@ -6,6 +6,14 @@
 
 ## Cryptography 
 
+### The Basics 0x0
+We've seen hackers communicating with these strange messages, we don't know what they are, but we believe they may be using a numbering system to encode text. See if you can read the message. 01110011 00111001 01111011 01000000 00110001 00110001 01011111 00110000 01101110 00110011 00100100 01011111 01000000 01101110 01100100 01011111 01111010 00110011 01110010 00110000 00100100 01111101
+
+![cybercherf](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/a1e45340-fec7-4ce0-9431-61b8821ff75e)
+
+
+This is a simple binary challenge where we can use a tool call cyber chef to solve it. So using the magic option on the binary gives us the solution whioch is s9{@11_0n3$_@nd_z3r0$}
+
 ### Russian Crib 
 
 ![solve](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/9ee6e4bd-af8e-4095-abb0-aeeee076d395)
