@@ -1,2 +1,23 @@
-# 0x1.signal9.club-CTF
-CTF Writeups for signal-9
+# CTF Writeups for Signal-9 CTF
+
+## Misc 
+
+## Reversing
+
+## Cryptography 
+
+## Open Source Intelligence 
+
+## Web
+
+## Coding 
+
+## Explotation 
+
+## Log Analysis 
+
+## Stego 
+
+
+
+
