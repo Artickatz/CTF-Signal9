@@ -2,6 +2,9 @@
 
 ## Misc 
 
+### Sanity check 
+![image](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/3e354b85-f8ee-434c-9c41-570dbc947268)
+
 ## Reversing
 
 ## Cryptography 
