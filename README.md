@@ -29,7 +29,7 @@ The attack you will be running on this is called a known plaintext attack where 
 
 Translated in english you will get Known Plain Text 123 
 
-Which when converted back to english gives you the flag s9{известныйоткрытыйтекст_123}
+Which when converted back to english gives you the flag s9{известный_открытый_текст_123}
 
 ## Open Source Intelligence 
 
