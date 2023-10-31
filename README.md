@@ -11,6 +11,12 @@
 ### Dashing Foward 
 ![image](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/74df1204-7e31-481f-b5f9-7e585a191059)
 
+### Never 
+
+To do this challenge you need to connect to "nc challenges.signal9.club 27123" where you can do nc challenges.signal9.club 27123 > file.txt to get the flag after running a search for the flag containing the proper s9{} syntax. Giving us the flag 
+
+### Internet Exfiltration Message Protocol 
+The flag to this challenge is s9{ICMP_3xf1l3d}
 
 ## Reversing
 
