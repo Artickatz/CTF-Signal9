@@ -8,6 +8,9 @@
 ### Flag Commentary 
 ![image](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/5ce8d923-add0-48de-a453-763b3d20ae3d)
 
+### Dashing Foward 
+![image](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/74df1204-7e31-481f-b5f9-7e585a191059)
+
 
 ## Reversing
 
