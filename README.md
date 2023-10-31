@@ -1,4 +1,4 @@
-# Solutions for Signal-9 CTF
+# **Solutions** 
 
 ## Misc 
 
