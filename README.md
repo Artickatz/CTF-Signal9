@@ -110,6 +110,12 @@ The solution flag is s9{c0ff33_cr3@m3r}
 
 ![image](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/6ca83641-5fc1-40b6-8cb0-cb64cc0efb6f)
 
+### SQLwhy? 
+![image](https://github.com/Artickatz/CTF-Signal9/assets/69086568/64ce7cb1-ac83-4e5f-9694-90cae21b9a37)
+
+![image](https://github.com/Artickatz/CTF-Signal9/assets/69086568/e4ae82c1-67cb-4463-8db2-fe6ac2ea72b4)
+
+
 ## Coding 
 
 ## Explotation 
