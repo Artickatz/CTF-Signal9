@@ -31,6 +31,13 @@ Translated in english you will get Known Plain Text 123
 
 Which when converted back to english gives you the flag s9{известный_открытый_текст_123}
 
+### Half-n-Half 
+
+In an attempt to foil cryptanalysis, I have created the perfect algorithm. The algorithm flips exactly half of the bits in the plaintext at random, never flipping a bit more than once. This ensures that for any bit, there is exactly a 50-50 chance if the bit in the hash correlates to the original. To prove it's complete inability to disclose the original text, I will include 150,000 runs of this algorithm on the same plaintext, along with the generator code. Good luck decrypting what can only be described as pure random chance.
+
+
+The solution flag is s9{c0ff33_cr3@m3r}
+
 ## Open Source Intelligence 
 
 ## Web
