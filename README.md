@@ -101,6 +101,15 @@ The solution flag is s9{c0ff33_cr3@m3r}
 
 ## Web
 
+### MrRoboto 
+![image](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/06be753b-5650-4baf-8545-5387776ab72e)
+
+![image](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/b2af4b44-d02d-41ef-975b-16193ea3d674)
+
+![image](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/d120905b-a72e-4c69-ab7f-fcbcfec5dbb0)
+
+![image](https://github.com/Artickatz/0x1.signal9.club-CTF/assets/69086568/6ca83641-5fc1-40b6-8cb0-cb64cc0efb6f)
+
 ## Coding 
 
 ## Explotation 
